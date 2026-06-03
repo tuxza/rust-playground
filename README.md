@@ -7,6 +7,12 @@ But hey, they work... sometimes! <br>
 And maybe someone will find them useful. <br>
 (probably not)
 
+# Directory:
+
+[Ferrite](https://github.com/tuxza/rust-playground/tree/main/ferrite) <br>
+horrible system monitor <br>
+i might make it a [Tauri](https://v2.tauri.app/) app
+#
 # FAQ !
 (no one asked any of this)
 
